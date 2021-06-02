@@ -1,0 +1,13 @@
+.botones img{
+    height: 100px;
+}
+.btnGeneral{
+
+    cursor: pointer;
+}
+#resultado{
+    display: flex;
+}
+.btnresultado{
+    height: 60px;
+}
